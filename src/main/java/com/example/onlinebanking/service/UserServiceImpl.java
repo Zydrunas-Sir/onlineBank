@@ -1,4 +1,4 @@
-package com.example.onlinebanking.service.UserServiceImpl;
+package com.example.onlinebanking.service;
 
 import com.example.onlinebanking.model.User;
 import com.example.onlinebanking.repository.RoleDao;
